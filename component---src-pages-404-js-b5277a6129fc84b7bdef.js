@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkkaratecise_ricky_com=self.webpackChunkkaratecise_ricky_com||[]).push([[883],{429:function(t,e,a){a.r(e);a(7955);var n=a(4834),c=a(8778);e.default=function(t){var e=t.data.site.siteMetadata.siteUrl;return(0,c.tZ)(n.q,null,(0,c.tZ)("meta",{name:"robots",content:"noindex"}),(0,c.tZ)("meta",{"http-equiv":"Refresh",content:"0; URL="+e}))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-b5277a6129fc84b7bdef.js.map
